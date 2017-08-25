@@ -12,6 +12,8 @@ namespace SamplaeMVCProject.Controllers
         {
             // Added this comment to Home Controller for Git Hub Testing
             // Added This comment via Github Website
+            
+            // This is another Comment via GitHub Website
             return View();
         }
 
