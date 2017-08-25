@@ -10,6 +10,7 @@ namespace SamplaeMVCProject.Controllers
     {
         public ActionResult Index()
         {
+            // Added this comment to Home Controller for Git Hub Testing
             return View();
         }
 
